@@ -1,5 +1,5 @@
 <h2>Namaste🙏🏻, I'm Nevil Patel! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/2g8EYDN0VWFMY/giphy.gif" width="230">
 
 
 <p><em>Studying M. Eng. Robotics at <a href="https://robotics.umd.edu/education/master-engineering-degree">UMCP</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
