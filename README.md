@@ -1,10 +1,8 @@
-<h2>Namaste🙏🏻, I'm Arkadip Bhattacharya! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h2>Namaste🙏🏻, I'm Nevil Patel! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-![Twitter Follow](https://img.shields.io/twitter/follow/Arkadipb21?label=Follow)
-![GitHub followers](https://img.shields.io/github/followers/darkmatter18?label=Follow&style=social)
 
-<p><em>Studying Computer Science and Engineering at <a href="http://gcettb.ac.in">GCETTB</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Studying M. Eng. Robotics at <a href="https://robotics.umd.edu/education/master-engineering-degree">UMCP</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 - 🔭 I’m currently working on Genareting High Resolution under water images application using Pytorch
