@@ -1,4 +1,4 @@
-<h2>Namaste🙏🏻, I'm Nevil Patel! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h2>Hello🏻, I'm Nevil Patel! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/2g8EYDN0VWFMY/giphy.gif" width="230">
 
 
