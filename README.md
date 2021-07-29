@@ -2,13 +2,10 @@
 <img align='right' src="https://media.giphy.com/media/2g8EYDN0VWFMY/giphy.gif" width="230">
 
 
-<p><em>Studying M. Eng. Robotics at <a href="https://robotics.umd.edu/education/master-engineering-degree">UMCP</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Graduated M. Eng. Robotics at <a href="https://robotics.umd.edu/education/master-engineering-degree">UMCP</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-- 🔭 I’m currently working at Rithum Automation LLC(Part Time).
-- 🌱 I’m currently taking Deep learning in my last semester.
-- 👯 I’m looking for internship and jobs related to Python based Machine Vision Development Projects in Medical Industry.
-- 👯 I’m open to work on Software development of High throughput Automated Liquid handling Instruments used in Biomedical Industry.
+- Future Not yet Decided! 
 - 💬 Ask me about anything. I will try to help you as much as I can.
 - 📫 How to reach me: 
 
