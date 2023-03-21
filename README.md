@@ -5,7 +5,7 @@
 <p><em>Graduated M. Eng. Robotics at <a href="https://robotics.umd.edu/education/master-engineering-degree">UMCP</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-- Laboratory Automation Engineer
+- Automation Engineer
 - 💬 Ask me about anything. I will try to help you as much as I can.
 - 📫 How to reach me: 
 
